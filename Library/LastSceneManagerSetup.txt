@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/PacMan.unity
+- path: Assets/CodemanGame.unity
   isLoaded: 1
   isActive: 1
